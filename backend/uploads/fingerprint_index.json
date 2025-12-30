@@ -1,0 +1,60 @@
+{
+  "fingerprints": {
+    "93480f924ca4c794014cf00ad2087ae4": "FT-93480F92-2B92",
+    "232930e26be199ef11173923b7313652": "FT-232930E2-F8E3"
+  },
+  "uploads": {
+    "FT-93480F92-2B92": {
+      "unique_id": "FT-93480F92-2B92",
+      "fingerprint": {
+        "md5": "fa8dcce34814560ea83716ce86834351",
+        "sha256": "b9f065f32f5d9c5a4e2063696fe1ab38ba6e4da18212968f6adb211c466f4e27",
+        "file_size": 8263557,
+        "perceptual_hash": "d344e923efc432f8",
+        "average_hash": "ac38d121d9d37c6c",
+        "difference_hash": null,
+        "video_hash": "d344e923efc432f8ac38d121d9d37c6c",
+        "combined_hash": "93480f924ca4c794014cf00ad2087ae4",
+        "frame_hashes": [
+          "0bbc93588fbfcf5bdec367eae4e6e7c4",
+          "f1231bf79121c84803e4c1c60318e4b3",
+          "5ab94fe585065a8dd493c177660e0a26",
+          "20f6fc347b6b0c807b61d7d88634cb5e"
+        ]
+      },
+      "original_filename": "temp_dbde0a8b.mp4",
+      "file_type": "video",
+      "file_size": 8263557,
+      "first_uploaded": "2025-12-28T21:28:14.644033",
+      "last_analyzed": "2025-12-28T22:38:05.025918",
+      "analysis_count": 5,
+      "stored_path": "uploads\\FT-93480F92-2B92\\FT-93480F92-2B92.mp4"
+    },
+    "FT-232930E2-F8E3": {
+      "unique_id": "FT-232930E2-F8E3",
+      "fingerprint": {
+        "md5": "685040f5624d8178b4f10deef04ae292",
+        "sha256": "66b7c6396b6203ed7672c159fbc428c816bf6cec546d2ce67f09864375c33c3b",
+        "file_size": 6969635,
+        "perceptual_hash": "554e4659caa453f3",
+        "average_hash": "853b410125dcb415",
+        "difference_hash": null,
+        "video_hash": "554e4659caa453f3853b410125dcb415",
+        "combined_hash": "232930e26be199ef11173923b7313652",
+        "frame_hashes": [
+          "62585aa2adcbba318f4f1b15cd7e4b20",
+          "b2af38508681861d54a95b461c753b4d",
+          "96444648e63e03d9d6275d54885618cc",
+          "9fac0e2095315e466e05d6d84fba2f80"
+        ]
+      },
+      "original_filename": "temp_5d9cb766.mp4",
+      "file_type": "video",
+      "file_size": 6969635,
+      "first_uploaded": "2025-12-28T21:35:27.066083",
+      "last_analyzed": "2025-12-28T22:56:54.748691",
+      "analysis_count": 2,
+      "stored_path": "uploads\\FT-232930E2-F8E3\\FT-232930E2-F8E3.mp4"
+    }
+  }
+}
