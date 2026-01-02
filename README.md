@@ -1,4 +1,4 @@
-# 🔍 FakeTrace v7.0 - CDTI Digital Forensics Platform
+## 🔍 FakeTrace v7.0 - CDTI Digital Forensics Platform
 
 <p align="center">
   <img src="frontend/public/cdti-logo.png" alt="CDTI Logo" width="200" />
